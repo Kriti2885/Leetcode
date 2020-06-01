@@ -1,3 +1,3 @@
 # Leetcode
 LeetCode questions:
-Includes my implementation of leet code questions in Python3.
+Includes my implementation of soultions to leet code questions in Python3.
